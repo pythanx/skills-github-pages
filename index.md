@@ -32,3 +32,31 @@ de sistemas, transformando aquilo que estudo em projetos reais.
 > 💡 Estou aprendendo.  
 > 🛠️ Estou construindo.  
 > 🚀 Estou evoluindo.
+---
+
+## 🌱 Atualmente
+
+Estou em uma fase de construção e exploração na área de tecnologia.
+
+- 📚 Aprofundando meus conhecimentos em programação
+- 💻 Criando projetos para colocar os estudos em prática
+- 🗄️ Estudando Banco de Dados e SQL
+- 🌐 Explorando desenvolvimento web
+- 🔧 Aprendendo a trabalhar cada vez melhor com Git e GitHub
+- ✍️ Registrando minha evolução no blog **Codando Todo Dia**
+- 🎬 Desenvolvendo um sistema de catálogo de streaming
+
+---
+
+## 🛠️ O que estou estudando
+
+| Área | O que estou buscando desenvolver |
+|---|---|
+| 💻 Programação | Lógica e resolução de problemas |
+| 🌐 Desenvolvimento Web | Estruturação e desenvolvimento de páginas |
+| 🗄️ Banco de Dados | Modelagem, SQL e organização de dados |
+| 🔧 Git & GitHub | Versionamento e organização de projetos |
+| 🧠 Desenvolvimento | Transformar ideias em soluções |
+| 🚀 Projetos | Aprender através da prática |
+
+> 🌱 Meu foco não é apenas aprender tecnologias, mas entender como utilizá-las para construir soluções.
