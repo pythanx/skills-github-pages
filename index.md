@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.png" width="100%" alt="Giselle Oliveira">
+
 # 👋 Olá, eu sou a Gis!
 
 ### Estudante de Análise e Desenvolvimento de Sistemas
@@ -18,45 +20,104 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou
-construindo minha trajetória na área de tecnologia através de estudos
-e projetos práticos.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, interessada em desenvolvimento de software, tecnologia e criação de soluções digitais.
 
-Minha trajetória também passa pela **Educação Física**, uma área que
-continua fazendo parte da minha vida e que me ensinou muito sobre
-disciplina, consistência e evolução.
+Minha trajetória acadêmica e profissional também passa pela **Educação Física** e pela **gestão**, áreas que fazem parte da minha formação e ampliam minha visão sobre tecnologia e resolução de problemas.
 
-Atualmente, estou focada em aprender programação e desenvolvimento
-de sistemas, transformando aquilo que estudo em projetos reais.
+Atualmente, estou direcionando meus estudos para **programação, desenvolvimento web e banco de dados**, buscando transformar conhecimento em projetos práticos.
 
-> 💡 Estou aprendendo.  
-> 🛠️ Estou construindo.  
-> 🚀 Estou evoluindo.
 ---
 
-## 🌱 Atualmente
+## 🎓 Acadêmico
 
-Estou em uma fase de construção e exploração na área de tecnologia.
+| Formação | Instituição | Situação |
+|---|---|---|
+| **Análise e Desenvolvimento de Sistemas** | UniCesumar | Em andamento |
+| **Bacharelado em Educação Física** | UniCesumar | Em andamento |
+| **Administração** | FACAM | Concluído |
+| **MBA em Gestão de Academias** | Anhanguera | Concluído |
 
-- 📚 Aprofundando meus conhecimentos em programação
-- 💻 Criando projetos para colocar os estudos em prática
+---
+
+## 🚀 Projetos
+
+### 🎬 Sistema de Catálogo de Streaming
+
+Sistema em desenvolvimento para praticar programação e desenvolvimento de sistemas.
+
+**🚧 Em desenvolvimento**
+
+---
+
+### 🏋️ Fisioforma
+
+Site desenvolvido para uma academia, aplicando conhecimentos de desenvolvimento web.
+
+**✅ Publicado**
+
+[🔗 Ver projeto](LINK_DO_FISIOFORMA)
+
+---
+
+### 🔎 Buscador de CEP
+
+Aplicação desenvolvida para praticar desenvolvimento web e consumo de API.
+
+**✅ Concluído**
+
+[🔗 Ver projeto](LINK_DO_BUSCADOR)
+
+---
+
+### 🎞️ Cinekronos
+
+Projeto desenvolvido durante os estudos de programação para praticar desenvolvimento web.
+
+**✅ Concluído**
+
+[🔗 Ver projeto](LINK_DO_CINEKRONOS)
+
+---
+
+## 📌 Atualmente
+
+- 💻 Desenvolvendo projetos próprios
 - 🗄️ Estudando Banco de Dados e SQL
-- 🌐 Explorando desenvolvimento web
-- 🔧 Aprendendo a trabalhar cada vez melhor com Git e GitHub
-- ✍️ Registrando minha evolução no blog **Codando Todo Dia**
+- 🌐 Aprofundando conhecimentos em desenvolvimento web
+- 🔧 Evoluindo com Git e GitHub
 - 🎬 Desenvolvendo um sistema de catálogo de streaming
+- ✍️ Registrando estudos no **Codando Todo Dia**
 
 ---
 
-## 🛠️ O que estou estudando
+## ✍️ Blog
 
-| Área | O que estou buscando desenvolver |
-|---|---|
-| 💻 Programação | Lógica e resolução de problemas |
-| 🌐 Desenvolvimento Web | Estruturação e desenvolvimento de páginas |
-| 🗄️ Banco de Dados | Modelagem, SQL e organização de dados |
-| 🔧 Git & GitHub | Versionamento e organização de projetos |
-| 🧠 Desenvolvimento | Transformar ideias em soluções |
-| 🚀 Projetos | Aprender através da prática |
+### Codando Todo Dia
 
-> 🌱 Meu foco não é apenas aprender tecnologias, mas entender como utilizá-las para construir soluções.
+Blog onde registro meus estudos, projetos e experiências durante minha formação em tecnologia.
+
+[📝 Acessar o blog](SEU_LINK_DO_BLOG)
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](SEU_GITHUB)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+
+[![Blog](https://img.shields.io/badge/Blog-FF4081?style=for-the-badge&logo=hashnode&logoColor=white)](SEU_BLOG)
+
+</div>
+
+---
+
+<div align="center">
+
+`</>` Código • 📚 Estudos • 🏋️ Educação Física • 🚀 Projetos
+
+**Construindo um projeto de cada vez.**
+
+</div>
